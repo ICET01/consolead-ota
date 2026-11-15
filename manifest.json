@@ -1,22 +1,26 @@
 {
-  "build": 1,
-  "version": "2026.11.15b",
+  "build": 2,
+  "version": "2026.11.15c",
   "date": "15/11/2026",
   "notes": [
     {
-      "e": "1f389",
-      "t": "Première mise à jour OTA, installée sans fil !"
+      "e": "1f5bc",
+      "t": "Wallpapers HD pour chaque jeu (plus d'icônes floues)"
     },
     {
-      "e": "2705",
-      "t": "Téléchargement, vérif sha256 et reboot testés"
+      "e": "1f3ae",
+      "t": "Minecraft (Horizon) installé dans switch/horizon"
     },
     {
-      "e": "1f680",
-      "t": "Les prochaines arrivent ici automatiquement"
+      "e": "2728",
+      "t": "App améliorée : liste des versions toujours visible"
+    },
+    {
+      "e": "1f195",
+      "t": "Carte pour green-nx"
     }
   ],
-  "payload_url": "https://github.com/ICET01/consolead-ota/releases/download/b1/payload.zip",
-  "sha256": "230468309113890ec6f2fc0fb60951adb6577686a772e97a75ee39bc9570b00e",
-  "files": 1
+  "payload_url": "https://github.com/ICET01/consolead-ota/releases/download/b2/payload.zip",
+  "sha256": "c3c96c365d5f6030b9cf9b149e8b3bf4c7dd6632b97d63c310e23c55e2cc33b3",
+  "files": 16
 }
