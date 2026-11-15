@@ -1,9 +1,7 @@
 {
-  "build": 1,
-  "version": "test",
-  "notes": "test chaine OTA",
-  "payload_url": "https://github.com/ICET01/consolead-ota/releases/download/b1/payload.zip",
-  "sha256": "570878f4def346241e812ee2ac1d696b0c2b9f9cd64c5e5a33fcf645d4cf5058",
-  "files": 1,
-  "date": "2026-11-15T13:34:24"
+  "build": 0,
+  "version": "0",
+  "notes": "Canal OTA Console AD pret.",
+  "payload_url": "",
+  "sha256": ""
 }
