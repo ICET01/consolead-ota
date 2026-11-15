@@ -1,12 +1,40 @@
 {
   "versions": [
     {
+      "build": 1,
+      "version": "2026.11.15b",
+      "date": "15/11/2026",
+      "notes": [
+        {
+          "e": "1f389",
+          "t": "Première mise à jour OTA, installée sans fil !"
+        },
+        {
+          "e": "2705",
+          "t": "Téléchargement, vérif sha256 et reboot testés"
+        },
+        {
+          "e": "1f680",
+          "t": "Les prochaines arrivent ici automatiquement"
+        }
+      ],
+      "payload_url": "https://github.com/ICET01/consolead-ota/releases/download/b1/payload.zip",
+      "sha256": "230468309113890ec6f2fc0fb60951adb6577686a772e97a75ee39bc9570b00e",
+      "files": 1
+    },
+    {
       "build": 0,
       "version": "Base",
       "date": "15/11/2026",
       "notes": [
-        {"e": "2728", "t": "Canal de mise a jour Console AD initialise."},
-        {"e": "1f680", "t": "Les prochaines mises a jour arrivent ici, sans fil."}
+        {
+          "e": "2728",
+          "t": "Canal de mise a jour Console AD initialise."
+        },
+        {
+          "e": "1f680",
+          "t": "Les prochaines mises a jour arrivent ici, sans fil."
+        }
       ],
       "payload_url": "",
       "sha256": ""
