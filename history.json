@@ -1,0 +1,15 @@
+{
+  "versions": [
+    {
+      "build": 0,
+      "version": "Base",
+      "date": "15/11/2026",
+      "notes": [
+        {"e": "2728", "t": "Canal de mise a jour Console AD initialise."},
+        {"e": "1f680", "t": "Les prochaines mises a jour arrivent ici, sans fil."}
+      ],
+      "payload_url": "",
+      "sha256": ""
+    }
+  ]
+}
