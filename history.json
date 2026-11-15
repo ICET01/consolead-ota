@@ -1,6 +1,24 @@
 {
   "versions": [
     {
+      "build": 4,
+      "version": "2026.11.15e-test",
+      "date": "15/11/2026",
+      "notes": [
+        {
+          "e": "1f4f8",
+          "t": "Photo de test — vérifie que l'OTA marche"
+        },
+        {
+          "e": "2705",
+          "t": "Si tu vois ça, télécharger + reboot fonctionnent"
+        }
+      ],
+      "payload_url": "https://github.com/ICET01/consolead-ota/releases/download/b4/payload.zip",
+      "sha256": "9e9719eb73bff95c5f309cade053630881ffa447b04b3765c3daf95f76c7a040",
+      "files": 2
+    },
+    {
       "build": 3,
       "version": "2026.11.15d",
       "date": "15/11/2026",
