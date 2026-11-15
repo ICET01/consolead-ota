@@ -1,22 +1,22 @@
 {
-  "build": 5,
-  "version": "2026.11.16-minecraft",
+  "build": 6,
+  "version": "2026.11.16-app2",
   "date": "16/11/2026",
   "notes": [
     {
-      "e": "1f3ae",
-      "t": "Minecraft Java 26.3 : fichiers du jeu (resources Horizon)"
+      "e": "2728",
+      "t": "Interface corrigee : textes espaces, bouton Telecharger clair"
     },
     {
-      "e": "2705",
-      "t": "100% fichiers publics Mojang, installe sans fil"
+      "e": "1f527",
+      "t": "Plus de telechargement auto a l'ouverture"
     },
     {
-      "e": "1f3b5",
-      "t": "Sons inclus (377 Mo)"
+      "e": "1f4be",
+      "t": "Installe conserve apres veille (ne retelecharge plus)"
     }
   ],
-  "payload_url": "https://github.com/ICET01/consolead-ota/releases/download/b3/payload.zip",
-  "sha256": "014b7c00e21683b49049c2d311fd8fd81ff587c2edc688484f98e91e13c312a0",
-  "files": 28178
+  "payload_url": "https://raw.githubusercontent.com/ICET01/consolead-ota/main/payloads/b6.zip",
+  "sha256": "ab65b82d2c3724af96ee71d015759f5a103f0dfdbf5ef8601b32f61869d0c71a",
+  "files": 1
 }
