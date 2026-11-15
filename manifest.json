@@ -1,18 +1,22 @@
 {
-  "build": 4,
-  "version": "2026.11.15e-test",
-  "date": "15/11/2026",
+  "build": 5,
+  "version": "2026.11.16-minecraft",
+  "date": "16/11/2026",
   "notes": [
     {
-      "e": "1f4f8",
-      "t": "Photo de test — vérifie que l'OTA marche"
+      "e": "1f3ae",
+      "t": "Minecraft Java 26.3 : fichiers du jeu (resources Horizon)"
     },
     {
       "e": "2705",
-      "t": "Si tu vois ça, télécharger + reboot fonctionnent"
+      "t": "100% fichiers publics Mojang, installe sans fil"
+    },
+    {
+      "e": "1f3b5",
+      "t": "Sons inclus (377 Mo)"
     }
   ],
-  "payload_url": "https://github.com/ICET01/consolead-ota/releases/download/b4/payload.zip",
-  "sha256": "9e9719eb73bff95c5f309cade053630881ffa447b04b3765c3daf95f76c7a040",
-  "files": 2
+  "payload_url": "https://github.com/ICET01/consolead-ota/releases/download/b3/payload.zip",
+  "sha256": "014b7c00e21683b49049c2d311fd8fd81ff587c2edc688484f98e91e13c312a0",
+  "files": 28178
 }
