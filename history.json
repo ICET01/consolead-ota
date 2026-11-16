@@ -1,8 +1,30 @@
 {
   "versions": [
     {
+      "build": 7,
+      "version": "Interface v2",
+      "date": "16/11/2026",
+      "notes": [
+        {
+          "e": "2728",
+          "t": "Interface refaite : placement des textes corrige, notes qui ne debordent plus"
+        },
+        {
+          "e": "1f500",
+          "t": "Animation de recherche a chaque recherche"
+        },
+        {
+          "e": "1f4be",
+          "t": "Mise a jour conservee apres veille"
+        }
+      ],
+      "payload_url": "https://raw.githubusercontent.com/ICET01/consolead-ota/main/payloads/b6.zip",
+      "sha256": "ab65b82d2c3724af96ee71d015759f5a103f0dfdbf5ef8601b32f61869d0c71a",
+      "files": 1
+    },
+    {
       "build": 6,
-      "version": "2026.11.16-app2",
+      "version": "Interface corrigée",
       "date": "16/11/2026",
       "notes": [
         {
@@ -24,7 +46,7 @@
     },
     {
       "build": 5,
-      "version": "2026.11.16-minecraft",
+      "version": "Minecraft Java 26.3",
       "date": "16/11/2026",
       "notes": [
         {
@@ -46,7 +68,7 @@
     },
     {
       "build": 4,
-      "version": "2026.11.15e-test",
+      "version": "Photo de test",
       "date": "15/11/2026",
       "notes": [
         {
@@ -64,7 +86,7 @@
     },
     {
       "build": 3,
-      "version": "2026.11.15d",
+      "version": "Minecraft (fichiers)",
       "date": "15/11/2026",
       "notes": [
         {
@@ -86,7 +108,7 @@
     },
     {
       "build": 2,
-      "version": "2026.11.15c",
+      "version": "Wallpapers + Horizon",
       "date": "15/11/2026",
       "notes": [
         {
@@ -112,7 +134,7 @@
     },
     {
       "build": 1,
-      "version": "2026.11.15b",
+      "version": "Base",
       "date": "15/11/2026",
       "notes": [
         {

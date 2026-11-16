@@ -1,19 +1,19 @@
 {
-  "build": 6,
-  "version": "2026.11.16-app2",
+  "build": 7,
+  "version": "Interface v2",
   "date": "16/11/2026",
   "notes": [
     {
       "e": "2728",
-      "t": "Interface corrigee : textes espaces, bouton Telecharger clair"
+      "t": "Interface refaite : placement des textes corrige, notes qui ne debordent plus"
     },
     {
-      "e": "1f527",
-      "t": "Plus de telechargement auto a l'ouverture"
+      "e": "1f500",
+      "t": "Animation de recherche a chaque recherche"
     },
     {
       "e": "1f4be",
-      "t": "Installe conserve apres veille (ne retelecharge plus)"
+      "t": "Mise a jour conservee apres veille"
     }
   ],
   "payload_url": "https://raw.githubusercontent.com/ICET01/consolead-ota/main/payloads/b6.zip",
