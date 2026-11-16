@@ -1,26 +1,22 @@
 {
-  "build": 8,
-  "version": "Interface v2",
+  "build": 9,
+  "version": "Interface v3",
   "date": "16/11/2026",
   "notes": [
     {
-      "e": "2728",
-      "t": "Textes bien places, notes qui ne debordent plus"
+      "e": "1f6e0",
+      "t": "Correction majeure : l'app se met vraiment a jour (swap .new au lancement)"
     },
     {
       "e": "1f500",
-      "t": "Animation de recherche a chaque recherche"
+      "t": "Animation de recherche + defilement borne de l'historique"
     },
     {
-      "e": "1f4b3",
-      "t": "Pastilles : Disponible (vert) / Installe (gris)"
-    },
-    {
-      "e": "1f4be",
-      "t": "Mise a jour conservee apres veille"
+      "e": "1f3a8",
+      "t": "Textes replaces, notes qui ne debordent plus"
     }
   ],
-  "payload_url": "https://raw.githubusercontent.com/ICET01/consolead-ota/main/payloads/b8.zip",
-  "sha256": "7b230efc693d04e015a8e676a682ad25276b5c8e4ee50508bec720596589e842",
+  "payload_url": "https://raw.githubusercontent.com/ICET01/consolead-ota/main/payloads/b9.zip",
+  "sha256": "838edf7fa9c40d4c7ee6e07a19bc63cb68bbb7d1aa89094b89c7c555345d97a6",
   "files": 1
 }
