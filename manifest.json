@@ -1,22 +1,26 @@
 {
-  "build": 7,
+  "build": 8,
   "version": "Interface v2",
   "date": "16/11/2026",
   "notes": [
     {
       "e": "2728",
-      "t": "Interface refaite : placement des textes corrige, notes qui ne debordent plus"
+      "t": "Textes bien places, notes qui ne debordent plus"
     },
     {
       "e": "1f500",
       "t": "Animation de recherche a chaque recherche"
     },
     {
+      "e": "1f4b3",
+      "t": "Pastilles : Disponible (vert) / Installe (gris)"
+    },
+    {
       "e": "1f4be",
       "t": "Mise a jour conservee apres veille"
     }
   ],
-  "payload_url": "https://raw.githubusercontent.com/ICET01/consolead-ota/main/payloads/b6.zip",
-  "sha256": "ab65b82d2c3724af96ee71d015759f5a103f0dfdbf5ef8601b32f61869d0c71a",
+  "payload_url": "https://raw.githubusercontent.com/ICET01/consolead-ota/main/payloads/b8.zip",
+  "sha256": "7b230efc693d04e015a8e676a682ad25276b5c8e4ee50508bec720596589e842",
   "files": 1
 }

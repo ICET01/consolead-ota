@@ -1,6 +1,32 @@
 {
   "versions": [
     {
+      "build": 8,
+      "version": "Interface v2",
+      "date": "16/11/2026",
+      "notes": [
+        {
+          "e": "2728",
+          "t": "Textes bien places, notes qui ne debordent plus"
+        },
+        {
+          "e": "1f500",
+          "t": "Animation de recherche a chaque recherche"
+        },
+        {
+          "e": "1f4b3",
+          "t": "Pastilles : Disponible (vert) / Installe (gris)"
+        },
+        {
+          "e": "1f4be",
+          "t": "Mise a jour conservee apres veille"
+        }
+      ],
+      "payload_url": "https://raw.githubusercontent.com/ICET01/consolead-ota/main/payloads/b8.zip",
+      "sha256": "7b230efc693d04e015a8e676a682ad25276b5c8e4ee50508bec720596589e842",
+      "files": 1
+    },
+    {
       "build": 7,
       "version": "Interface v2",
       "date": "16/11/2026",
