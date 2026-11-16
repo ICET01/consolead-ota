@@ -1,6 +1,28 @@
 {
   "versions": [
     {
+      "build": 10,
+      "version": "Interface v4",
+      "date": "16/11/2026",
+      "notes": [
+        {
+          "e": "1f504",
+          "t": "Animation de recherche centree DANS la carte"
+        },
+        {
+          "e": "1f4cf",
+          "t": "Carte principale agrandie"
+        },
+        {
+          "e": "2705",
+          "t": "Les MAJ de l'app s'appliquent vraiment (swap au lancement)"
+        }
+      ],
+      "payload_url": "https://raw.githubusercontent.com/ICET01/consolead-ota/main/payloads/b10.zip",
+      "sha256": "993d4dde902ef78644a68c48f54a455a1c2927e6e4138766d52e87ce08cddb61",
+      "files": 1
+    },
+    {
       "build": 9,
       "version": "Interface v3",
       "date": "16/11/2026",
